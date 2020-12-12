@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi there 👋! I'm Optical.
+I'm OpticaL, I'm a 17 year old developer, I'm also experienced in Networking and Hardware Maintenance
 
-<!--
-**opticalPvPX/opticalPvPX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Contacts
+- [Discord](https://discord.gg/RqacVKP83N)
+- [Twitter](https://twitter.com/opticalpvpx)
+- [YouTube](https://www.youtube.com/channel/UCH4Tj7S26r43FotOCY-L3fA)
 
-Here are some ideas to get you started:
+### Programming Languages
+<img src="https://avatars1.githubusercontent.com/u/25158?s=200&v=4" width="50px" height="50px"> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Github Stats
+![Overall stats](https://github-readme-stats.vercel.app/api?username=opticalPvPX&theme=dark&show_icons=true&count_private=true)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=opticalPvPX&theme=dark&show_icons=true&count_private=true)
