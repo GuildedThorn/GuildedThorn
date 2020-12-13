@@ -11,3 +11,5 @@ I'm OpticaL, I'm a 17 year old developer, I'm also experienced in Networking and
 
 ### Github Stats
 ![Overall stats](https://github-readme-stats.vercel.app/api?username=opticalPvPX&theme=darcula&show_icons=true&count_private=true)
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=opticalPvPX.opticalPvPX)
