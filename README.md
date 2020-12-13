@@ -1,6 +1,8 @@
 ## Hi there! 👋
 I'm OpticaL, I'm a 17 year old developer, I'm also experienced in Networking and Hardware Maintenance
 
+![](https://i.imgur.com/hMRvOro.jpg)
+
 ### Contacts
 - [Discord](https://discord.gg/RqacVKP83N)
 - [Twitter](https://twitter.com/opticalpvpx)
