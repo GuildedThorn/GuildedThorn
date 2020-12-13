@@ -1,4 +1,4 @@
-## Hi there 👋! I'm Optical.
+## Hi there! 👋
 I'm OpticaL, I'm a 17 year old developer, I'm also experienced in Networking and Hardware Maintenance
 
 ### Contacts
