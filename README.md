@@ -18,4 +18,5 @@ I'm OpticaL, I'm a 17 year old developer, I'm also experienced in Networking and
 ![Followers](https://img.shields.io/github/followers/opticalPvPX?label=Followers&style=social)
 
 ### Spotify
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/lint74q8j4m2mq36z3wyt2obt)
+
+[<img src="https://optical.opticalpvpx.vercel.app/api/spotify-playing" width="350" />](https://open.spotify.com/user/lint74q8j4m2mq36z3wyt2obt)
