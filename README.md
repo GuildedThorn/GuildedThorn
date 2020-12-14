@@ -19,4 +19,4 @@ I'm OpticaL, I'm a 17 year old developer, I'm also experienced in Networking and
 
 ### Spotify
 
-[![Spotify](https://opticalpvpx.vercel.app/api/spotify)](https://open.spotify.com/user/lint74q8j4m2mq36z3wyt2obt)
+[![Spotify](https://spotify-drmg65jrz.vercel.app/api/spotify)](https://open.spotify.com/user/lint74q8j4m2mq36z3wyt2obt)
