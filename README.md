@@ -1,5 +1,5 @@
 ## Hi there! 👋
-I'm OpticaL, I'm an 18 year old developer, I'm also experienced in Networking and Hardware Maintenance
+I'm Optical, I'm an 18 year old developer, I'm also experienced in Networking and Hardware Maintenance
 
 ### Contacts
 - [Discord]Optical#0010
