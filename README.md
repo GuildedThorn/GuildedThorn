@@ -2,9 +2,16 @@
 I'm Optical, I'm an 18 year old developer, I'm also experienced in Networking and Hardware Maintenance
 
 ### Contacts
-- [Discord]Optical#0010
+- [Discord] Optical#1309
 - [Twitter](https://twitter.com/opticalpvpx)
 - [YouTube](https://www.youtube.com/channel/UCH4Tj7S26r43FotOCY-L3fA)
+
+### Legend Network
+I am an Owner and Developer going on since early 2017 \
+Website: [LegendMC](https://www.legendmc.us/)
+Twitter: [LegendNetworkUS](https://twitter.com/legendnetworkUS)
+Github: [LegendNetwork](https://github.com/LegendNetwork)
+API: [Legend Api](https://api.legendmc.us/)
 
 
 ### Github Statistics
