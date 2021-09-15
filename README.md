@@ -18,7 +18,7 @@ height="40"/>
 height="40"/>
 
 
-## Contacts
+## Contact Me!
 - admin@opticalpvpx.tk
 - [Discord](https://discord.opticalpvpx.tk/)
 - [Twitter](https://twitter.com/opticalpvpx)
