@@ -4,7 +4,7 @@ I'm an 18 year old Developer, I'm also experienced in Networking and Hardware Ma
 # Experience
 A list of my lifetime experience and projects I've Worked on:
 
-## Known Lamguages
+## Known Languages
 
 <a href="https://en.wikipedia.org/wiki/PHP" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
 <a href="https://en.wikipedia.org/wiki/Java_(software_platform)" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
