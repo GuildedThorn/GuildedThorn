@@ -27,6 +27,7 @@ TODO:
 
 ### Contact Information
 Website: [LegendMC](https://www.legendmc.us/) \
+Discord: [Legend Network](https://discord.legendmc.us) \
 Twitter: [LegendNetworkUS](https://twitter.com/legendnetworkUS) \
 Github: [LegendNetwork](https://github.com/LegendNetwork) \
 API: [Legend Api](https://api.legendmc.us/)
