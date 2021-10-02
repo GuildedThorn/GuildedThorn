@@ -14,9 +14,10 @@ Legend Network Has Been a personal project of mine for years now. I started this
 <img align="right" width="600" height="300" src="https://api.legendmc.us/images/logo.png">
 
 TODO:
-- [ ] HCF
 - [ ] Practice
+- [ ] HCF
 - [ ] UHC
+- [ ] Sky Factions
 - [ ] Mini Games
   - [ ] Bedwars
   - [ ] Skywars
