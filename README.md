@@ -1,10 +1,10 @@
-# About me
-My name is Optical and I am an 18 year old Freelance Developer who is eager to gain experience.
+# Welcome!
+My name is Optical and I am an 18 year old Freelance Developer who is eager to push the boundries of what is possible in software development. I have been programming since early 2015 and have learned so much in my time. I also work on robotics (Arduino and rasberry PI) which I have been doing since 2013. I am not nearly as active as I used to since I left Legend Network but I look forward to still working on future projects.
 
 ## Contact Me!
-- [Discord](https://discord.opticalpvpx.tk/)
 - [Twitter](https://twitter.com/opticalpvpx)
 - [YouTube](https://www.youtube.com/channel/UCH4Tj7S26r43FotOCY-L3fA)
+- [Twitch](https://www.twitch.tv/opticalpvpx)
 
 # Current Projects
 
@@ -24,10 +24,13 @@ Join our Discord: [Matrix Development](https://discord.opticalpvpx.tk/)
 
 # Work Experience
 - Full Stack Developer.
-- Kali Linux Pen Testing and Cybersecurity intern
+- Restful API's.
+- Kali Linux Pen Testing and Cybersecurity internship.
+- Certified in apple and samsung phone repair.
 - IT and Hardware Technician.
-- Database Management and Server Side Web Applications.
+- Database Management and Web Applications.
 - Robotics Engineer who works with Arduino and Raspberry Pi.
+- Deep understanding of multithreading and hashing.
 
 ## Known Languages
 
@@ -54,5 +57,6 @@ height="40"/>
 [![Spotify](https://spotify-drmg65jrz.vercel.app/api/spotify)](https://open.spotify.com/user/lint74q8j4m2mq36z3wyt2obt)
 
 # Support me
-
-<a href="https://www.buymeacoffee.com/opticalpvpx" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+  
+  - [Paypal](https://www.paypal.com/paypalme/OpticalPvP)
+  - [Buy me a coffee](https://www.buymeacoffee.com/opticalpvpx)
