@@ -1,5 +1,5 @@
 # Welcome!
-My name is Optical and I am an 18 year old Freelance Developer who is eager to push the boundries of what is possible in software development. I have been programming since early 2015 and have learned so much in my time. I also work on robotics (Arduino and rasberry PI) which I have been doing since 2013. I am not nearly as active as I used to since I left Legend Network but I look forward to still working on future projects.
+My name is Optical and I am an 18 year old Freelance Developer who is eager to push the boundries of what is possible in software development. I have been programming since early 2015 and have learned so much in my time. I also work on robotics (Arduino and rasberry PI) which I have been doing since 2013. I am not nearly as active as I used to since I took a break from Legend Network but I look forward to still working on future projects.
 
 ## Contact Me!
 - [Twitter](https://twitter.com/opticalpvpx)
