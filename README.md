@@ -23,7 +23,7 @@ Matrix Development is a community project that I started in the beginning of 202
 Join our Discord: [Matrix Development](https://discord.opticalpvpx.tk/)
 
 ## The JBX
-The JailBreak Experience is a community of Counter Strike: Source players I met after taking a break on Legend Network. They run their own server using sourcemod for plugins(Which sourcepawn turned out to be a pretty simple language).
+The JailBreak Experience is a community of Counter Strike: Source players I met after taking a break on Legend Network. They run their own server using sourcemod for plugins(Which sourcepawn turned out to be a pretty simple language). I do small patches here and there for them when they need it.
 
 ### Contact Information
 Website: [JailBreak Experience](https://jailbreakexperience.com/) \
