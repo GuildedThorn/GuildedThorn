@@ -12,15 +12,23 @@ My name is Optical and I am an 18 year old Freelance Developer who is eager to p
 Legend Network was a personal project of mine for years. I started this massive project back in 2017 and I never though I would get this much support. I want to thank everyone who has ever supported me on this crazy rollercoaster ride. I left the project in November of 2021.
 
 ### Contact Information
-Website: [LegendMC](https://www.legendmc.us/) \
-Discord: [Legend Network](https://discord.legendmc.us) \
+Website: [Legend Network](https://www.legendmc.us/) \
+Discord: [Legend Network Discord](https://discord.legendmc.us) \
 Twitter: [LegendNetworkUS](https://twitter.com/legendnetworkUS) \
-Github: [LegendNetwork](https://github.com/LegendNetwork) \
-API: [Legend Api](https://api.legendmc.us/)
+Github: [Legend Network Github](https://github.com/LegendNetwork) \
+API: [Legend API](https://api.legendmc.us/)
 
 ## Matrix Development
 Matrix Development is a community project that I started in the beginning of 2021. I wanted an environment where my development progress wasn't just limited to Minecraft Bedrock Edition. Any Language is accepted as long as the work is original and does what it is supposed to. \
 Join our Discord: [Matrix Development](https://discord.opticalpvpx.tk/)
+
+## The JBX
+The JailBreak Experience is a community of Counter Strike: Source players I met after taking a break on Legend Network. They run their own server using sourcemod for plugins(Which sourcepawn turned out to be a pretty simple language).
+
+### Contact Information
+Website: [JailBreak Experience](https://jailbreakexperience.com/) \
+Discord: [JailBreak Experience Discord](https://discord.gg/AugYVXrtyz) \
+Github: [JailBreak Experience Github](https://github.com/JailBreakExperience)
 
 # Work Experience
 - Full Stack Developer.
