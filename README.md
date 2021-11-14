@@ -9,7 +9,7 @@ My name is Optical and I am an 18 year old Freelance Developer who is eager to p
 # Current Projects
 
 ## Legend Network
-Legend Network was a personal project of mine for years. I started this massive project back in 2017 and I never though I would get this much support. I want to thank everyone who has ever supported me on this crazy rollercoaster ride. I left the project in November of 2021, but may be planning on continuing it.
+Legend Network was a personal project of mine for years. I started this massive project back in 2017 and I never though I would get this much support. I want to thank everyone who has ever supported me on this crazy rollercoaster ride.
 
 ### Contact Information
 Website: [Legend Network](https://www.legendmc.us/) \
