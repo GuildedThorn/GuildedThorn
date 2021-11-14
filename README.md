@@ -34,7 +34,7 @@ Github: [JailBreak Experience Github](https://github.com/JailBreakExperience)
 - Full Stack Developer.
 - Restful API's.
 - Kali Linux Pen Testing and Cybersecurity internship.
-- Certified in apple and samsung phone repair.
+- Certified in Samsung and Apple phone repair.
 - IT and Hardware Technician.
 - Database Management and Web Applications.
 - Robotics Engineer who works with Arduino and Raspberry Pi.
