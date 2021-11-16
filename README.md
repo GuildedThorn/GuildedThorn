@@ -11,13 +11,6 @@ My name is Optical and I am an 18 year old Freelance Developer who is eager to p
 ## Legend Network
 Legend Network was a personal project of mine for years. I started this massive project back in 2017 and I never though I would get this much support. I want to thank everyone who has ever supported me on this crazy rollercoaster ride.
 
-### Contact Information
-Website: [Legend Network](https://www.legendmc.us/) \
-Discord: [Legend Network Discord](https://discord.legendmc.us) \
-Twitter: [LegendNetworkUS](https://twitter.com/legendnetworkUS) \
-Github: [Legend Network Github](https://github.com/LegendNetwork) \
-API: [Legend API](https://api.legendmc.us/)
-
 ## Matrix Development
 Matrix Development is a community project that I started in the beginning of 2021. I wanted an environment where my development progress wasn't just limited to Minecraft Bedrock Edition. Any Language is accepted as long as the work is original and does what it is supposed to. \
 Join our Discord: [Matrix Development](https://discord.opticalpvpx.tk/)
