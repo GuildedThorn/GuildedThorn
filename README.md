@@ -7,7 +7,7 @@ My name is Optical and I am an 18 year old Freelance Developer who is eager to p
 - [Twitch](https://www.twitch.tv/opticalpvpx)
 
 # Work Experience
-- Restful Applications.
+- Restful Applications and Frameworks (Guzzle, Lumen, Laravel, asp.NET).
 - Databases (MySQL, SQLite3, Redis, MariaDB, MongoDB, PostgreSQL).
 - Data Structures (JSON, Yaml).
 - Kali Linux Penetration Testing.
