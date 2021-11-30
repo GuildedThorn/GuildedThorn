@@ -1,5 +1,5 @@
 # Welcome!
-My name is Optical and I am an 18 year old Freelance Developer who is eager to push the boundaries of what is possible in software development. I have been programming since early 2015 and have learned so much in my time. I am currently working on a WIP Game Development Company (Matrix Development), And I hope to release an upcoming racing game which I believe will hit triple A in less than a year of release. I am a determined person who believes knowledge is the best form of perspective. I believe that you cannot feel what you have not seen.
+My name is Thorn and I am an 18 year old Freelance Developer who is eager to push the boundaries of what is possible in software development. I have been programming since early 2015 and have learned so much in my time. I am currently working on a WIP Game Development Company (Matrix Development), And I hope to release an upcoming racing game which I believe will hit triple A in less than a year of release. I am a determined person who believes knowledge is the best form of perspective. I believe that you cannot feel what you have not seen.
 
 ## Contact Me!
 - [Twitter](https://twitter.com/opticalpvpx)
