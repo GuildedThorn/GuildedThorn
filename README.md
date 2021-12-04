@@ -43,10 +43,10 @@ height="40"/>
 <a href="https://en.wikipedia.org/wiki/Rust_(programming_language)" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/rust/rust-plain.svg" alt="php" width="40" height="40"/>
 
 # My Activity
-![Overall stats](https://github-readme-stats.vercel.app/api?username=opticalPvPX&theme=darcula&show_icons=true&count_private=true)
+![Overall stats](https://github-readme-stats.vercel.app/api?username=GuildedThorn&theme=darcula&show_icons=true&count_private=true)
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=opticalPvPX.opticalPvPX)
-![Followers](https://img.shields.io/github/followers/opticalPvPX?label=Followers&style=social)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=GuildedThorn.GuildedThorn)
+![Followers](https://img.shields.io/github/followers/GuildedThorn?label=Followers&style=social)
 
 # Now Playing
 
