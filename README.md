@@ -1,5 +1,5 @@
 # Welcome!
-My name is Thorn and I am an 18 year old Freelance Developer who is eager to push the boundaries of what is possible in software development. I have been programming since early 2015 and have learned so much in my time. I am currently working on a WIP Game Development Company (Matrix Development), And I hope to release an upcoming racing game which I believe will hit triple A in less than a year of release. I am a determined person who believes knowledge is the best form of perspective. I believe that you cannot feel what you have not seen.
+My name is Thorn and I am an 18 year old Freelance Developer who is eager to push the boundaries of what is possible in software development. I have been programming since early 2015 and have learned so much in my time. I am currently working on a WIP Game Development Company (Nightraid Studios), And I hope to release an upcoming racing game which I believe will hit triple A in less than a year of release. I am a determined person who believes knowledge is the best form of perspective. I believe that you cannot feel what you have not seen.
 
 ## Contact Me!
 - [Twitter](https://twitter.com/GuildedThorn)
@@ -21,9 +21,9 @@ My name is Thorn and I am an 18 year old Freelance Developer who is eager to pus
 ## Legend Network
 Legend Network was a personal project of mine for years. I started this massive project back in 2017 and I never though I would get this much support. I want to thank everyone who has ever supported me on this crazy rollercoaster ride.
 
-## Matrix Development
-Matrix Development is a community project that I started in the beginning of 2021. I wanted an environment where my development progress wasn't just limited to Minecraft Bedrock Edition. Any Language is accepted as long as the work is original and does what it is supposed to. \
-Join our Discord: [Matrix Development](https://discord.opticalpvpx.tk/)
+## Nightraid Studios
+Nightraid Studios is a community project that I started in the beginning of 2021. I wanted an environment where my development progress wasn't just limited to Minecraft Bedrock Edition. Any Language is accepted as long as the work is original and does what it is supposed to. \
+Join our Discord: [Nightraid Studios](https://discord.opticalpvpx.tk/)
 
 ## JailBreak Experience
 The JailBreak Experience is a community of Counter Strike: Source players I met after taking a break on Legend Network. They run their own server using sourcemod for plugins(Which sourcepawn turned out to be a pretty simple language). I do small patches here and there for them when they need it.
