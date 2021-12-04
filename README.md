@@ -18,12 +18,12 @@ My name is Thorn and I am an 18 year old Freelance Developer who is eager to pus
 
 # Current Projects
 
-## Legend Network
-Legend Network was a personal project of mine for years. I started this massive project back in 2017 and I never though I would get this much support. I want to thank everyone who has ever supported me on this crazy rollercoaster ride.
-
 ## Nightraid Studios
 Nightraid Studios is a community project that I started in the beginning of 2021. I wanted an environment where my development progress wasn't just limited to Minecraft Bedrock Edition. Any Language is accepted as long as the work is original and does what it is supposed to. \
 Join our Discord: [Nightraid Studios](https://discord.opticalpvpx.tk/)
+
+## Legend Network
+Legend Network was a personal project of mine for years. I started this massive project back in 2017 and I never though I would get this much support. I want to thank everyone who has ever supported me on this crazy rollercoaster ride.
 
 ## JailBreak Experience
 The JailBreak Experience is a community of Counter Strike: Source players I met after taking a break on Legend Network. They run their own server using sourcemod for plugins(Which sourcepawn turned out to be a pretty simple language). I do small patches here and there for them when they need it.
