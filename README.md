@@ -7,9 +7,11 @@ My name is Thorn and I am an 18 year old Freelance Developer who is eager to pus
 - [Twitch](https://www.twitch.tv/xguildedthorn)
 
 # Work Experience
-- Restful Applications and Frameworks (Guzzle, Lumen, Laravel, ASP.NET).
+- Restful Applications and Frameworks (Entity Framework, Guzzle, Lumen, Laravel, ASP.NET).
 - Databases (MySQL, SQLite3, Redis, MariaDB, MongoDB, PostgreSQL).
+- Style Sheets (CSS, XSL).
 - Data Structures (JSON, Yaml).
+- Markup Languages (HTML, Markdown, XML).
 - Kali Linux Penetration Testing.
 - Certified in Samsung and Apple Phone Repair.
 - IT and Server Technician.
@@ -35,8 +37,6 @@ The JailBreak Experience is a community of Counter Strike: Source players I met 
 height="40"/>
 <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" alt="c#" width="40" height="40"/>
 <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40"
-height="40"/>
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"> <img src="https://techbeacon.com/sites/default/files/styles/social/public/html5-mobile-app-native-hybrid-pros-cons.jpg?itok=R3pMKIzh" alt="Html5" width="40"
 height="40"/>
 <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40"
 height="40"/>
