@@ -4,7 +4,7 @@ My name is Thorn and I am an 18 year old Freelance Developer who is eager to pus
 ## Contact Me!
 - [Twitter](https://twitter.com/GuildedThorn)
 - [YouTube](https://www.youtube.com/channel/UCH4Tj7S26r43FotOCY-L3fA)
-- [Twitch](https://www.twitch.tv/opticalpvpx)
+- [Twitch](https://www.twitch.tv/xguildedthorn)
 
 # Work Experience
 - Restful Applications and Frameworks (Guzzle, Lumen, Laravel, ASP.NET).
