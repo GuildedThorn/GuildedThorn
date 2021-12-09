@@ -7,7 +7,7 @@ My name is Thorn and I am an 18 year old Freelance Developer who is eager to pus
 - [Twitch](https://www.twitch.tv/xguildedthorn)
 
 # Work Experience
-- Restful Applications and Frameworks (Entity Framework, Guzzle, Lumen, Laravel, ASP.NET).
+- Restful Applications and Frameworks (Entity Framework, Dapper, Guzzle, Lumen, Laravel, ASP.NET).
 - Databases (MySQL, SQLite3, Redis, MariaDB, MongoDB, PostgreSQL).
 - Style Sheets (CSS, XSL).
 - Data Structures (JSON, Yaml).
