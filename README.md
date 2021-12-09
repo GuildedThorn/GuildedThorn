@@ -7,7 +7,7 @@ My name is Thorn and I am an 18 year old Freelance Developer who is eager to pus
 - [Twitch](https://www.twitch.tv/opticalpvpx)
 
 # Work Experience
-- Restful Applications and Frameworks (Guzzle, Lumen, Laravel, asp.NET).
+- Restful Applications and Frameworks (Guzzle, Lumen, Laravel, ASP.NET).
 - Databases (MySQL, SQLite3, Redis, MariaDB, MongoDB, PostgreSQL).
 - Data Structures (JSON, Yaml).
 - Kali Linux Penetration Testing.
