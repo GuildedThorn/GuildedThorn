@@ -20,7 +20,7 @@ My name is Thorn and I am an 18 year old Freelance Developer who is eager to pus
 
 ## Nightraid Studios
 Nightraid Studios is a community project that I started in the beginning of 2021. I wanted an environment where my development progress wasn't just limited to Minecraft Bedrock Edition. Any Language is accepted as long as the work is original and does what it is supposed to. \
-Join our Discord: [Nightraid Studios](https://discord.opticalpvpx.tk/)
+Join our Discord: [Nightraid Studios](https://discord.nightraid.studio/)
 
 ## Legend Network
 Legend Network was a personal project of mine for years. I started this massive project back in 2017 and I never though I would get this much support. I want to thank everyone who has ever supported me on this crazy rollercoaster ride.
