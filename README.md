@@ -13,7 +13,6 @@ My name is Thorn and I am an 18 year old Freelance Developer who is eager to pus
 - Data Structures (JSON, Yaml).
 - Markup Languages (HTML, Markdown, XML).
 - Kali Linux Penetration Testing.
-- Certified in Samsung and Apple Phone Repair.
 - IT and Server Technician.
 - Robotics Engineer (Arduino and Rasberry PI).
 - Threading and Serializing Data.
