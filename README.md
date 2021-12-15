@@ -23,9 +23,6 @@ My name is Jamie but everyone calls me Thorn, I am an 18 year old Freelance Deve
 Nightraid Studios is a community project that I started in the beginning of 2021. I wanted an environment where my development progress wasn't just limited to Minecraft Bedrock Edition. Any Language is accepted as long as the work is original and does what it is supposed to. \
 Join our Discord: [Nightraid Studios](https://discord.nightraid.studio/)
 
-## JailBreak Experience
-The JailBreak Experience is a community of Counter Strike: Source players I met after taking a break on Legend Network. They run their own server using sourcemod for plugins(Which sourcepawn turned out to be a pretty simple language). I do small patches here and there for them when they need it.
-
 # Known Languages
 
 <a href="https://en.wikipedia.org/wiki/PHP" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
