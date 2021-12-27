@@ -47,5 +47,5 @@ height="40"/>
 
 # Support me
   
-  - [Paypal](https://www.paypal.com/paypalme/OpticalPvP)
+  - [Paypal](https://www.paypal.com/paypalme/GuildedThorn)
   - [Buy me a coffee](https://www.buymeacoffee.com/GuildedThorn)
