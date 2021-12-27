@@ -20,7 +20,7 @@ My name is Jamie but everyone calls me Thorn, I am an 18 year old Freelance Deve
 # Current Projects
 
 ## Nightraid Studios
-Nightraid Studios is a community project that I started in the beginning of 2021. I wanted an environment where my development progress wasn't just limited to Minecraft Bedrock Edition. Any Language is accepted as long as the work is original and does what it is supposed to. \
+Nightraid Studios is a community project that I started in the beginning of 2021. I wanted an environment where my development progress wasn't just limited to a certain game. Any Language is accepted as long as the work is original and does what it is supposed to. \
 Join our Discord: [Nightraid Studios](https://discord.nightraid.studio/)
 
 # Known Languages
