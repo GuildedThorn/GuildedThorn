@@ -7,14 +7,14 @@ My name is Jamie but everyone calls me Thorn, I am an 18 year old Freelance Deve
 - [Twitch](https://www.twitch.tv/xguildedthorn)
 
 # Work Experience
-- Restful Applications and Frameworks (Entity Framework, Dapper, Guzzle, Lumen, Laravel, ASP.NET).
-- Databases (MySQL, SQLite3, Redis, MariaDB, MongoDB, PostgreSQL).
-- Style Sheets (CSS, XSL).
-- Data Structures (JSON, Yaml).
-- Markup Languages (HTML, Markdown, XML).
-- Kali Linux Penetration Testing.
+- Restful Applications and Frameworks (Entity Framework (Some), Dapper (Some), Guzzle (1.5yrs), Lumen (1.5yrs), Laravel (1.5yrs), ASP.NET (5months).
+- Databases (MySQL(5yrs), SQLite3 (5yrs), Redis (1yr), MariaDB (4.5yrs), MongoDB (some), PostgreSQL (some)).
+- Style Sheets (CSS (some), XSL (some)).
+- Data Structures (JSON (4yrs), Yaml (4yrs)).
+- Markup Languages (HTML (some), Markdown (1.5yrs), XML (some).
+- Kali Linux Penetration Testing (2yrs).
 - IT and Server Technician.
-- Robotics Engineer (Arduino and Rasberry PI).
+- Robotics Engineer (Arduino (4months) and Rasberry PI (4months).
 - Threading and Serializing Data.
 
 # Current Projects
