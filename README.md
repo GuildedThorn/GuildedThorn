@@ -29,9 +29,13 @@ Join our Discord: [Nightraid Studios](https://discord.nightraid.studio/)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=GuildedThorn.GuildedThorn)
 ![Followers](https://img.shields.io/github/followers/GuildedThorn?label=Followers&style=social)
 
-# Now Playing
+# Status
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/654849939175768074)](https://discord.com/users/654849939175768074) 
 
 [![Spotify](https://spotify-drmg65jrz.vercel.app/api/spotify)](https://open.spotify.com/user/lint74q8j4m2mq36z3wyt2obt)
+
+
 
 # Support me
   
