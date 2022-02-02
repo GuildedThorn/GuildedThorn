@@ -31,7 +31,7 @@ Join our Discord: [Nightraid Studios](https://discord.nightraid.studio/)
 
 # Status
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/654849939175768074)](https://discord.com/users/654849939175768074) 
+[![Discord Presence](https://lanyard.cnrad.dev/api/654849939175768074?hideTimestamp=true)](https://discord.com/users/654849939175768074) 
 
 [![Spotify](https://spotify-drmg65jrz.vercel.app/api/spotify)](https://open.spotify.com/user/lint74q8j4m2mq36z3wyt2obt)
 
