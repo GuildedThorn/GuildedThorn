@@ -20,7 +20,6 @@ My name is Jamie but everyone calls me Thorn, I am an 18 year old Freelance Deve
 - Kali Linux Penetration Testing (2yrs).
 - IT and Server Technician.
 - Robotics Engineer (Arduino (4months) and Rasberry PI (4months).
-- Threading and Serializing Data.
 
 # Current Projects
 
