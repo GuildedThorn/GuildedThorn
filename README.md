@@ -21,13 +21,6 @@ My name is Jamie but everyone calls me Thorn, I am an 18 year old Freelance Deve
 - IT and Server Technician.
 - Robotics Engineer (Arduino (4months) and Rasberry PI (4months).
 
-# Current Projects
-
-## Nightraid Studios
-Nightraid Studios is a community project that I started in the beginning of 2021. I wanted an environment where my development progress wasn't just limited to a certain game. Any Language is accepted as long as the work is original and does what it is supposed to. \
-Join our Discord: [Nightraid Studios](https://discord.nightraid.studio/)
-
-
 # Now Playing
 
 [![Spotify](https://spotify-drmg65jrz.vercel.app/api/spotify)](https://open.spotify.com/user/lint74q8j4m2mq36z3wyt2obt)
