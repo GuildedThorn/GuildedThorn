@@ -9,6 +9,7 @@ My name is Jamie but everyone calls me Thorn, I am an 19 year old Freelance Deve
 - [Twitter](https://twitter.com/GuildedThorn)
 - [YouTube](https://www.youtube.com/channel/UCH4Tj7S26r43FotOCY-L3fA)  
 - [Twitch](https://www.twitch.tv/xguildedthorn)
+- [XDA](https://forum.xda-developers.com/m/guildedthorn.12219983/)
 
 
 # Work Experience
