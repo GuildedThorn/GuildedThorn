@@ -4,8 +4,6 @@ My name is Jamie but everyone calls me Thorn, I am a 21 year old Freelance Devel
 ## Contact Me!
 
 
-<img align="right" src="https://lanyard.cnrad.dev/api/654849939175768074?hideTimestamp=true">
-
 - [XDA](https://forum.xda-developers.com/m/guildedthorn.12219983/)
 
 
