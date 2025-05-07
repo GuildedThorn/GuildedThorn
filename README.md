@@ -9,12 +9,6 @@ My name is Jamie but everyone calls me Thorn, I am a 21 year old Freelance Devel
 - [XDA](https://forum.xda-developers.com/m/guildedthorn.12219983/)
 
 
-# Now Playing
-
-[![Spotify](https://spotify-drmg65jrz.vercel.app/api/spotify)](https://open.spotify.com/user/lint74q8j4m2mq36z3wyt2obt)
-
-
-
 # Support me
   
   - [Paypal](https://www.paypal.com/paypalme/GuildedThorn)
