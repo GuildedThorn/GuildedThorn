@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="./assets/guildedthorn-banner.svg" alt="GuildedThorn — full-stack builder and systems engineer" width="100%">
-</p>
 
 ## Scaling systems past what you can put in a job application
 
