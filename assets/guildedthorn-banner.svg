@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">GuildedThorn</title>
+  <desc id="desc">A black and gold terminal-inspired banner for Jamie Thorn Duddleston, full-stack builder and systems engineer.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#05070a"/>
+      <stop offset="0.58" stop-color="#0b0d12"/>
+      <stop offset="1" stop-color="#11100c"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fff0a8"/>
+      <stop offset="0.35" stop-color="#e1b94f"/>
+      <stop offset="0.72" stop-color="#b77b16"/>
+      <stop offset="1" stop-color="#f3d776"/>
+    </linearGradient>
+    <radialGradient id="halo">
+      <stop offset="0" stop-color="#d4a72c" stop-opacity="0.16"/>
+      <stop offset="0.48" stop-color="#d4a72c" stop-opacity="0.06"/>
+      <stop offset="1" stop-color="#d4a72c" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#d4a72c" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="420" rx="24" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="418" rx="23" fill="none" stroke="#d4a72c" stroke-opacity="0.32" stroke-width="2"/>
+  <rect x="18" y="18" width="1164" height="384" rx="14" fill="url(#grid)"/>
+  <circle cx="995" cy="207" r="255" fill="url(#halo)"/>
+
+  <g fill="none" stroke="#d4a72c" stroke-opacity="0.16">
+    <path d="M0 72H360M840 72H1200"/>
+    <path d="M0 349H270M925 349H1200"/>
+  </g>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <text x="70" y="62" fill="#d4a72c" font-size="14" font-weight="700" letter-spacing="3">INDEPENDENT BUILDER  //  SINCE 2015</text>
+    <circle cx="557" cy="57" r="4" fill="#7ee787" filter="url(#glow)"/>
+    <text x="570" y="62" fill="#7d8590" font-size="12" letter-spacing="2">STATUS: BUILDING</text>
+
+    <text x="62" y="221" fill="url(#gold)" font-family="Arial Black, Inter, Arial, sans-serif" font-size="76" font-weight="900" letter-spacing="1">GuildedThorn</text>
+    <text x="70" y="279" fill="#d4a72c" font-size="15" font-weight="700" letter-spacing="4">JAMIE DUDDLESTON</text>
+    <text x="70" y="316" fill="#9da7b3" font-size="14" letter-spacing="2">FULL-STACK BUILDER  //  SYSTEMS ENGINEER  //  GAME DEV</text>
+
+    <rect x="70" y="343" width="610" height="39" rx="6" fill="#05070a" stroke="#d4a72c" stroke-opacity="0.28"/>
+    <text x="88" y="368" fill="#7ee787" font-size="14" font-weight="700">thorn@nixos</text>
+    <text x="183" y="368" fill="#8b949e" font-size="14">:</text>
+    <text x="192" y="368" fill="#79c0ff" font-size="14">~</text>
+    <text x="202" y="368" fill="#8b949e" font-size="14">$ make new_ideas</text>
+    <rect x="453" y="356" width="8" height="16" fill="#d4a72c" opacity="0.9"/>
+  </g>
+
+  <!-- Thorn-ring monogram -->
+  <g transform="translate(995 207)">
+    <circle r="118" fill="#080a0e" fill-opacity="0.9" stroke="#d4a72c" stroke-opacity="0.22" stroke-width="18"/>
+    <circle r="122" fill="none" stroke="#d4a72c" stroke-opacity="0.62" stroke-width="2" stroke-dasharray="3 10"/>
+    <circle r="96" fill="none" stroke="url(#gold)" stroke-width="2"/>
+    <text x="-2" y="31" text-anchor="middle" fill="url(#gold)" font-family="Arial Black, Inter, Arial, sans-serif" font-size="91" font-weight="900" letter-spacing="1">G</text>
+  </g>
+
+  <!-- Climbing thorn branch -->
+  <g fill="none" stroke="url(#gold)" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M838 373C914 337 1117 296 1144 86" stroke-width="3" opacity="0.72"/>
+    <path d="M866 358l-25-22 34 8M902 342l-8-34 24 27M946 325l12-32 3 35M1084 263l31-20-20 31M1111 223l35-11-29 25M1130 176l29-25-22 37M1140 128l-6-34 18 29" stroke-width="2" opacity="0.72"/>
+  </g>
+
+  <g fill="#d4a72c" opacity="0.6">
+    <circle cx="35" cy="35" r="3"/>
+    <circle cx="1165" cy="35" r="3"/>
+    <circle cx="35" cy="385" r="3"/>
+    <circle cx="1165" cy="385" r="3"/>
+  </g>
+</svg>
