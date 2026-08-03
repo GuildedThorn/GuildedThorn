@@ -2,9 +2,7 @@
   <img src="./assets/guildedthorn-banner.svg" alt="GuildedThorn — full-stack builder and systems engineer" width="100%">
 </p>
 
-## I build past the part that fits in a job title.
-
-I'm Jamie Duddleston—**Thorn** online. I'm a freelance developer, systems engineer, and data analyst. I've been programming since 2015, but the useful description is simpler: **I follow problems all the way down.**
+## Scaling systems past what you can put in a job application
 
 Frontend, backend, infrastructure, security, data, and hardware aren't separate lanes to me. They're different surfaces of the same system. When an idea reaches a layer I don't know yet, I learn that layer and keep moving.
 
