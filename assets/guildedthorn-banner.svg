@@ -46,8 +46,7 @@
     <circle cx="557" cy="57" r="4" fill="#7ee787" filter="url(#glow)"/>
     <text x="570" y="62" fill="#7d8590" font-size="12" letter-spacing="2">STATUS: BUILDING</text>
 
-    <text x="62" y="221" fill="url(#gold)" font-family="Arial Black, Inter, Arial, sans-serif" font-size="76" font-weight="900" letter-spacing="1">GuildedThorn</text>
-    <text x="70" y="279" fill="#d4a72c" font-size="15" font-weight="700" letter-spacing="4">JAMIE DUDDLESTON</text>
+    <text x="70" y="279" fill="#d4a72c" font-size="15" font-weight="700" letter-spacing="4">Doing what I do best</text>
     <text x="70" y="316" fill="#9da7b3" font-size="14" letter-spacing="2">FULL-STACK BUILDER  //  SYSTEMS ENGINEER  //  GAME DEV</text>
 
     <rect x="70" y="343" width="610" height="39" rx="6" fill="#05070a" stroke="#d4a72c" stroke-opacity="0.28"/>
