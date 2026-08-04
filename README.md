@@ -27,6 +27,12 @@ A C# bot built around Discord.Net and Victoria for music, automation, and the jo
 
 A deliberately small Python bridge that carries Discord Rich Presence out of a FlareVM without putting a Discord token inside it. It started as a solution for an isolated reverse-engineering environment and became useful anywhere presence needs to cross a machine boundary.
 
+### 04 - [SurroundStage](https://github.com/GuildedThorn/SurroundStage)
+
+** Virtual surround stage in a virtual reality space.**
+
+A Godot VR application that takes an 8 channel 7.1 surround signal from an icecast2 stream, and maps it to virtual speakers inside a VR environment. Audio is affected by your position and head rotation in the game, making everyone's experience different as you move around the floor.
+
 ## The working theory
 
 > Knowledge is the best form of perception. You cannot understand what you have not done.
