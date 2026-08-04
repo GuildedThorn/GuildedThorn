@@ -29,7 +29,7 @@ A deliberately small Python bridge that carries Discord Rich Presence out of a F
 
 ### 04 - [SurroundStage](https://github.com/GuildedThorn/SurroundStage)
 
-** Virtual surround stage in a virtual reality space.**
+**Virtual surround stage in a virtual reality space.**
 
 A Godot VR application that takes an 8 channel 7.1 surround signal from an icecast2 stream, and maps it to virtual speakers inside a VR environment. Audio is affected by your position and head rotation in the game, making everyone's experience different as you move around the floor.
 
